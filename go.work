@@ -2,5 +2,6 @@ go 1.19
 
 use (
 	./Go_CQRS_Demo/
-	./Go_Wire_Demo/
+	./Go_SignalR_Demo/
+	./Go_Wire_Demo
 )
